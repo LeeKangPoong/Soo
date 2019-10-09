@@ -1,1 +1,1 @@
-<a href="soo.html">Information</a>
+<a href="soo.html">Soo Pages</a>
